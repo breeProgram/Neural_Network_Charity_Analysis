@@ -13,3 +13,15 @@ With knowledge of machine learning and neural networks, this project was to crea
 - SPECIAL_CONSIDERATIONS—Special consideration for application
 - ASK_AMT—Funding amount requested
 - IS_SUCCESSFUL—Was the money used effectively
+
+## Results
+
+![summary_layers_nodes](https://user-images.githubusercontent.com/56700719/167463594-53ae5c00-037f-44de-9e85-d8a7179b69a5.JPG)
+
+- The best resuts I was able to achieve evaluating this model using the test data was using three hidden layers with 70 nodes in the first layer followed by 50 then 30 running 100 epoches.
+
+![Accuracy](https://user-images.githubusercontent.com/56700719/167463130-5491b9c3-8f22-49b9-bb76-f3cbf1a7b594.JPG)
+
+- The highest accuracy achieve was 0.7247 and loss of 0.5736.
+
+
