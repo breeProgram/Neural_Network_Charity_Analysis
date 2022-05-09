@@ -1,5 +1,6 @@
 # Neural_Network_Charity_Analysis
 ## Introduction
+
 With knowledge of machine learning and neural networks, this project was to create a binary classifier that is capable of predicting whether applicants will be successful if funded by Alphabet Soup. From Alphabet Soup’s business team, a dataset with a CSV containing more than 34,000 organizations that have received funding from Alphabet Soup over the years will be asseted using Pandas, Scikit-learn, and Tensorflow with a goal of over 75% accuracy in predicting success. Within this dataset are a number of columns that capture metadata about each organization, such as the following:
 
 - EIN and NAME—Identification columns
@@ -24,4 +25,6 @@ With knowledge of machine learning and neural networks, this project was to crea
 
 - The highest accuracy achieve was 0.7247 and loss of 0.5736.
 
+## Summary
 
+The overall results of the deep learning model weren't 75% but the accuracy I was getting was not to far off. If I were to try any imporvements, I would try to use a different 
