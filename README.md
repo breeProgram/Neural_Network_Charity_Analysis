@@ -27,4 +27,4 @@ With knowledge of machine learning and neural networks, this project was to crea
 
 ## Summary
 
-The overall results of the deep learning model weren't 75% but the accuracy I was getting was not to far off. If I were to try any imporvements, I would try to use a different 
+The overall results of the deep learning model weren't 75% but the accuracy I was getting was not to far off. To be able to make some imporvements, I would try to use some other methods like random forests or support vector machine.
